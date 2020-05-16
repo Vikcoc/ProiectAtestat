@@ -1,0 +1,11 @@
+Un proiect facut pentru a obtine atestatul in informatica la sfarsit de liceu
+
+Incearca sa reprezinte un joc de tip endless runner in Windows Forms
+  Are un stil retro dat de faptul ca jucatorul este alcatuit din dreptunghiuri colorate si scopul este sa evite patrate colorate
+
+Programul a ajuns sa arate astfel datorita lipsei de experienta si cunostinte
+  La fel si codul sursa
+
+Ca rezultat a avut faptul ca am intalnit concepte ale POO (mostenirea din control,constructori)
+Dar si faptul ca am incercat sa emulez concepte pe care daca le-as fi stiut mi-ar fi fost mai usor (variabile static)
+Iar in plus am intalnit si override pe care nu l-am invatat formal inca
